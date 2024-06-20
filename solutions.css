@@ -36,12 +36,30 @@
 }
 
 /* Exercise 6 */
+.ex-6-img:hover {
+    filter: grayscale(100%);
+}
 
 /* Exercise 7 */
+.ex-7-img:hover {
+    filter: hue-rotate(40deg) drop-shadow(3px 3px 5px #4b4b4b);
+    transition: filter 0.8s;
+}
 
 /* Exercise 8 */
+.ex-8-img:hover {
+    filter: grayscale(50%) contrast(150%);
+    border-radius: 20px;
+    transition: all 0.5s;
+}
 
 /* Exercise 9 */
+.ex-9-img:hover {
+    filter: blur(1px) drop-shadow(0 0 5px black);
+    border-radius: 20px;
+    transform: scale(1.2);
+    transition: all 1s;
+}
 
 /* Exercise 10 */
 
