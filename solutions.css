@@ -108,11 +108,11 @@
 }
 
 /* Exercise 12 */
-.ex-12-top-white {
+.ex-12-button:hover .ex-12-top-white {
     animation: topWhitePosition 3s linear infinite;
 }
 
-.ex-12-bottom-white {
+.ex-12-button:hover .ex-12-bottom-white {
     animation: bottomWhitePosition 3s linear infinite;
 }
 
@@ -151,11 +151,11 @@
 }
 
 /* Exercise 13 */
-.ex-13-top-white {
+.ex-13-button:hover .ex-13-top-white {
     animation: topWhiteRotation 2s linear infinite;
 }
 
-.ex-13-bottom-white {
+.ex-13-button:hover .ex-13-bottom-white {
     animation: bottomWhiteRotation 2s linear infinite;
 }
 
